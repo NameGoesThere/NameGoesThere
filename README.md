@@ -1,3 +1,5 @@
+The atoms that build our universe are made with proprietary software. <br><br>
+
 I use Debian GNU/Linux (btw) <br>
 C is better than C++
 
